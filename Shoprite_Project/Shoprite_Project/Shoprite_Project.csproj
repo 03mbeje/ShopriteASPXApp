@@ -1,0 +1,250 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{68533259-DE56-4F82-BA4F-9E3700AC743D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shoprite_Project</RootNamespace>
+    <AssemblyName>Shoprite_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Catergories.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Home.aspx" />
+    <Content Include="Images\contact-us-header.jpeg" />
+    <Content Include="Images\images.jpg" />
+    <Content Include="Images\images.png" />
+    <Content Include="Images\Our Team\Baby-Govender-s.jpg" />
+    <Content Include="Images\Our Team\kulsum-career.jpg" />
+    <Content Include="Images\Our Team\Maude-Modise-1.jpg" />
+    <Content Include="Images\Our Team\pexels-photo-858492.jpeg" />
+    <Content Include="Images\Our Team\Pieter Engelbrecht.jpg" />
+    <Content Include="Images\Our Team\ricardo-career.jpg" />
+    <Content Include="Images\Rf69JN5r_400x400.jpg" />
+    <Content Include="Images\shoprite_logo.png" />
+    <Content Include="Images\Transportation\download %281%29.jpg" />
+    <Content Include="Images\Transportation\download %282%29.jpg" />
+    <Content Include="Images\Transportation\download %283%29.jpg" />
+    <Content Include="Images\Transportation\download.jpg" />
+    <Content Include="Images\Transportation\images %281%29.jpg" />
+    <Content Include="Images\Transportation\images.jpg" />
+    <Content Include="Images\unnamed.jpg" />
+    <Content Include="Images\vllkyt70ijqmjvktr.jpg" />
+    <Content Include="JavaScript_Sidebar.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\npm.js" />
+    <Content Include="Fontaws.File.Home\css\all.css" />
+    <Content Include="Fontaws.File.Home\css\all.min.css" />
+    <Content Include="Fontaws.File.Home\css\brands.css" />
+    <Content Include="Fontaws.File.Home\css\brands.min.css" />
+    <Content Include="Fontaws.File.Home\css\fontawesome.css" />
+    <Content Include="Fontaws.File.Home\css\fontawesome.min.css" />
+    <Content Include="Fontaws.File.Home\css\regular.css" />
+    <Content Include="Fontaws.File.Home\css\regular.min.css" />
+    <Content Include="Fontaws.File.Home\css\solid.css" />
+    <Content Include="Fontaws.File.Home\css\solid.min.css" />
+    <Content Include="Fontaws.File.Home\css\svg-with-js.css" />
+    <Content Include="Fontaws.File.Home\css\svg-with-js.min.css" />
+    <Content Include="Fontaws.File.Home\css\v4-shims.css" />
+    <Content Include="Fontaws.File.Home\css\v4-shims.min.css" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-brands-400.svg" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-regular-400.svg" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-solid-900.svg" />
+    <Content Include="OurTeam.aspx" />
+    <Content Include="Specials\1-10.jpg" />
+    <Content Include="Specials\10984-shoprite-catalogue-to-19-03-17-1-0.jpg.900x10000_q75.jpg" />
+    <Content Include="Specials\18814-shoprite-catalogue-to-07-02-18-0.jpg.900x10000_q75.jpg" />
+    <Content Include="Specials\541867-950-100000.jpg" />
+    <Content Include="Specials\ecwinterpromotion20may09jun20190001.jpg.900x10000_q75.jpg" />
+    <Content Include="Specials\Page1_204.jpg.900x10000_q75.jpg" />
+    <Content Include="Specials\wcjanpricesavings22jan09feb20200001.jpg.900x10000_q75.jpg" />
+    <Content Include="Specials\wcritebrandpromotion08may19may20190003.jpg.900x10000_q75.jpg" />
+    <Content Include="StyleSheet1.css" />
+    <Content Include="StyleSheet_About.css" />
+    <Content Include="StyleSheet_Contact.css" />
+    <Content Include="StyleSheet_OurTeam.css" />
+    <Content Include="Stylesheet_Sidebar.css" />
+    <Content Include="Transportation.aspx" />
+    <Content Include="Transportation.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Catergories.aspx.cs">
+      <DependentUpon>Catergories.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Catergories.aspx.designer.cs">
+      <DependentUpon>Catergories.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OurTeam.aspx.cs">
+      <DependentUpon>OurTeam.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OurTeam.aspx.designer.cs">
+      <DependentUpon>OurTeam.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transportation.aspx.cs">
+      <DependentUpon>Transportation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Transportation.aspx.designer.cs">
+      <DependentUpon>Transportation.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap-theme.min.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-brands-400.eot" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-brands-400.ttf" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-brands-400.woff" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-brands-400.woff2" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-regular-400.eot" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-regular-400.ttf" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-regular-400.woff" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-regular-400.woff2" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-solid-900.eot" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-solid-900.ttf" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-solid-900.woff" />
+    <Content Include="Fontaws.File.Home\webfonts\fa-solid-900.woff2" />
+    <Content Include="Images\page0002.pdf" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>63250</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:63250/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

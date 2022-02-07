@@ -1,0 +1,46 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+.container{
+    background-color:yellow;
+    position:absolute;
+    font-display:block;
+    height:100px;
+    align-content:center;
+    align-items:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+    color:red;
+    width:100%;
+}
+.h1 {
+    margin-left:60px;
+    position:absolute;
+}
+.slider {
+    position:absolute;
+    background: url('Images/Transportation/download (1).jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:600px ;
+    width: 100%;
+    padding-top:100px;
+    margin:100px auto;
+    animation: slide 20s infinite;
+}
+@keyframes slide {
+    25% {
+        background: url('Images/Transportation/download (1).jpg');
+    }
+    50% {
+        background: url('Images/Transportation/download (3).jpg')
+    }
+    75% {
+        background: url('Images/Transportation/download.jpg')
+    }
+    100% {
+        background: url('Images/Transportation/images.jpg');
+    }
+}

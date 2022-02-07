@@ -1,0 +1,167 @@
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.dll.config
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.pdb
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.exe
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.exe.config
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.rsp
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.exe
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.exe.config
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.rsp
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.AppContext.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Console.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.exe
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.exe.config
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.rsp
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csprojAssemblyReference.cache
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csproj.CoreCompileInputs.cache
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csproj.CopyComplete
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.dll
+C:\Users\da kind\Desktop\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.pdb
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.dll.config
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.pdb
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.exe
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.exe.config
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.rsp
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.exe
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.exe.config
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.rsp
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.AppContext.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Console.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.exe
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.exe.config
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.rsp
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csprojAssemblyReference.cache
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csproj.CopyComplete
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.dll
+C:\Users\Ntuthuko\Documents\Mobile Computing\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.pdb
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.dll.config
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\Shoprite_Project.pdb
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.exe
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.exe.config
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\csc.rsp
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.exe
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.exe.config
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\csi.rsp
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.AppContext.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Console.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.exe
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.exe.config
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\vbc.rsp
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csproj.AssemblyReference.cache
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csproj.CoreCompileInputs.cache
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.csproj.CopyComplete
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.dll
+C:\Users\MJ\Downloads\Shoprite_Project\Shoprite_Project\obj\Debug\Shoprite_Project.pdb

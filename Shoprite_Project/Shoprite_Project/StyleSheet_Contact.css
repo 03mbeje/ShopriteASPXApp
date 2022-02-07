@@ -1,0 +1,63 @@
+﻿body {
+    margin:0;
+    padding:0;
+}
+.navbar{
+    background-color:red;
+}
+.image {
+    background-image: url(Images/contact-us-header.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 110vh;
+    width: 100%;
+}
+.fot {
+    background-color: black;
+    padding-bottom: 05px;
+}
+.icon {
+    position: absolute;
+    transform: translate(-50%,-50%);
+    margin-left:130px;
+    padding-top: 80px;
+}
+.icon a {
+        display: inline-flex;
+        height: 50px;
+        width: 50px;
+        background:red;
+        color: white;
+        margin: 0 6px;
+        border-radius: 50%;
+        justify-content: center;
+        align-items: center;
+        transition: 0.4s;
+        font-size: 22px;
+}
+.icon a:hover {
+        background: #301934;
+}
+.social a i {
+    transition: 0.4s all;
+}
+.icon a:hover > i {
+    transform: scale(0.6) rotate(25deg);
+}
+.text1 {
+    padding-top: 100px;
+    margin-left: 15px;
+    color: #1A2421;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 900;
+}
+.text2 {
+    margin-left: 15px;
+    padding-top: 15px;
+    color :#1A2421;
+    font-style: italic;
+    font-size: medium;
+    font-weight: 900;
+}
